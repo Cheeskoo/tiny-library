@@ -1,0 +1,12 @@
+[
+  { "id": 1, "slug": "all", "label": "All" },
+  { "id": 2, "slug": "fiction", "label": "Fiction" },
+  { "id": 3, "slug": "non-fiction", "label": "Non-fiction" },
+  { "id": 4, "slug": "romance", "label": "Romance" },
+  { "id": 5, "slug": "fantasy", "label": "Fantasy" },
+  { "id": 6, "slug": "thriller", "label": "Thriller" },
+  { "id": 7, "slug": "horror", "label": "Horror" },
+  { "id": 8, "slug": "historical", "label": "Historical" },
+  { "id": 9, "slug": "biography", "label": "Biography" },
+  { "id": 10, "slug": "self-help", "label": "Self-help" }
+]
